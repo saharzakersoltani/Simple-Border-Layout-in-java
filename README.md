@@ -43,7 +43,7 @@ The GUI layout is divided as follows:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/java-swing-gui-demo.git
+   git clone https://github.com/saharzakersoltani/java-swing-gui-demo.git
    cd java-swing-gui-demo
 
 2. Compile the code:
